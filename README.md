@@ -13,7 +13,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<br><br>
+<br>
 
 - 💻 I'm a junior developer
 - 📱 I am a programming student of the Sena
